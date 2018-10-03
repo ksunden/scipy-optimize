@@ -8,6 +8,8 @@ For documentation see [paper](paper.md)
 
 The module uses the Carpentries [lesson template](http://carpentries.github.io/lesson-example/).
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/ksunden/scipy-optimize/gh-pages?filepath=code%2Fmake-figures.ipynb)
+
 ## Contributing
 
 ### Contributing to the module
